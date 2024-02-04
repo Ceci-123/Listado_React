@@ -1,11 +1,11 @@
 //import React from 'react'
 import './App.css'
-import Card from '../components/card'
+import Cards from '../components/cards'
 
 function App() {
   return (
     <>
-     <Card/>
+     <Cards/>
     </>
   )
 }
