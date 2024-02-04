@@ -1,4 +1,4 @@
-//import React from "react";
+import '../src/App.css'
 
 function Card() {
   return <div className="card">

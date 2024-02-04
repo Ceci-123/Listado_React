@@ -3,10 +3,14 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: aquamarine;
 }
 
 
 .card {
   padding: 2em;
+  text-decoration: underline;
 }
-
+.card-body {
+  background-color: rgb(208, 208, 244);
+}

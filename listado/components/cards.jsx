@@ -7,7 +7,12 @@ function Cards(){
                <div className='col-md-4'>
                     <Card/>
                 </div>    
-       
+                <div className='col-md-4'>
+                    <Card/>
+                </div>  
+                <div className='col-md-4'>
+                    <Card/>
+                </div>  
                 </div>
         </div>
     )
