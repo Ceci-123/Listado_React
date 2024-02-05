@@ -9,7 +9,10 @@ function Card() {
       </div>
       <div className="card-text">
       y algo mas de texto
-
+      </div>
+      <div>
+      <button className='btn btn-outline-secondary'> SI</button>
+      <button className='btn btn-outline-secondary'> NO</button>
       </div>
       </div>
     </div>;
