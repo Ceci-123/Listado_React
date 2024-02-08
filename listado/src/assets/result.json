@@ -1,0 +1,28 @@
+{
+  "Search": [
+    {
+      "Id": 1,
+      "Title": "Panqueques de dulce de leche",
+      "Cantidad": "2",
+      "Type": "postre"
+    },
+    {
+      "Id": 2,
+      "Title": "Helado",
+      "Cantidad": "1",
+      "Type": "postre"
+    },
+    {
+      "Id": 3,
+      "Title": "Empanadas",
+      "Cantidad": "2",
+      "Type": "cena"
+    },
+    {
+      "Id": 4,
+      "Title": "Fideos",
+      "Cantidad": "2",
+      "Type": "cena"
+    }
+  ]
+}
